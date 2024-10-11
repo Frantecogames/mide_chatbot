@@ -1,0 +1,9 @@
+Processamento de Linguagem Natural (PLN): Utilizando bibliotecas como NLTK e modelos mais avançados como PyTorch, a Zero-IA consegue entender e responder a perguntas, processar textos e manter o contexto das conversas.
+
+Interpretação de Comandos: Pode ser usada para interagir com usuários em interfaces gráficas, como no projeto Mide, respondendo a comandos e consultas através de uma interface de chat. Ela armazena o histórico de conversas e pode aprender a partir de interações.
+
+Processamento de Dados: Consegue interpretar e manipular grandes quantidades de dados, incluindo arquivos JSON, textos estruturados, e pode ser programada para realizar operações matemáticas e lógicas.
+
+Adaptabilidade e Personalização: A IA é capaz de manter um contexto personalizado, ajustando suas respostas com base no nome do usuário, preferências ou perguntas anteriores, o que possibilita uma experiência mais interativa e intuitiva.
+
+Automação de Tarefas: Com integração a sistemas externos, a Zero-IA pode ser utilizada para automação de tarefas repetitivas, como consultas de dados, lembretes, ou execução de ações específicas no sistema, tornando-a útil em ambientes empresariais e técnicos.
